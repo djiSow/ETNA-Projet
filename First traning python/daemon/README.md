@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 consigne :
+=======
+    consigne :
+>>>>>>> 20b60e12031d5a71f0d3967779fbd920d654cac4
     
 Ecrivez une fonction qui reçoit :
 

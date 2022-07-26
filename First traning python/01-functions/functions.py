@@ -1,5 +1,5 @@
 """Let the battle begin !"""
-__author__ = "sanche_e"
+__author__ = "sow_d"
 from audioop import add
 from contextlib import nullcontext
 import sys
