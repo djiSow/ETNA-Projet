@@ -1,5 +1,5 @@
 """Do nothing"""
-__author__ = "sanche_e"
+__author__ = "sow_d"
 my_int = 42
 my_string = "My first string Yay!"
 françois = bytes('3.9 is cool', encoding='utf-8')

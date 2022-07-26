@@ -1,5 +1,5 @@
 '''My_'''
-__author__ = "sanche_e"
+__author__ = "sow_d"
 import os
 import subprocess
 import sys
